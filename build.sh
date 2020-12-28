@@ -1,5 +1,5 @@
 #!/bin/sh
 
-autoconf -i
+autoreconf -i
 ./configure
 make
